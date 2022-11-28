@@ -42,3 +42,27 @@ Write a Python program for department library which has N books, write functions
 3. Count number of books with cost more than 500.
 
 4. Copy books in a new list which has cost less than 500.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment 4:- https://techypd.netlify.app/index.php/2022/09/21/assignment-4/
+
+Write a Python program that computes the net amount of a bank account based a transaction log from console input. The transaction log format is shown as following: D 100 W 200 (Withdrawal is not allowed if balance is going negative. Write functions for withdraw and deposit) D means deposit while W means withdrawal. Suppose the following input is supplied to the program: D 300, D 300 , W 200, D 100 Then, the output should be: 500
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment 5:- https://techypd.netlify.app/index.php/2022/09/22/assignment-5/
+
+Write a Python program to compute following operations on String:
+
+1. To display word with the longest length
+
+2. To determines the frequency of occurrence of particular character in the string
+
+3. To check whether given string is palindrome or not
+
+4. To display index of first appearance of the substring
+
+5. To count the occurrences of each word in a given string
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment 6:- https://techypd.netlify.app/index.php/2022/09/22/assignment-6/
+
+It is decided that weekly greetings are to be furnished to wish the students having their birthdays in that week. The consolidated sorted list with desired categorical information is to be provided to the authority. Write a Python program to store students PRNs with date and month of birth. Let List_A and List_B be the two list for two SE Computer divisions. Lists are sorted on date and month. Merge these two lists into third list “List_SE_Comp_DOB” resulting in sorted information about Date of Birth of SE Computer students.
+
