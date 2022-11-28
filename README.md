@@ -31,3 +31,14 @@ Write a Python program to store marks scored in subject “Fundamental of Data S
 
 4. Display mark with highest frequency
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment 3:- https://techypd.netlify.app/index.php/2022/09/21/assignment-3/
+
+Write a Python program for department library which has N books, write functions for following:
+
+1. Delete the duplicate entries
+
+2. Display books in ascending order based on cost of books
+
+3. Count number of books with cost more than 500.
+
+4. Copy books in a new list which has cost less than 500.
