@@ -25,11 +25,13 @@ Write a Python program to store names and mobile numbers of your friends in sort
 Assignment 12b - https://techypd.netlify.app/index.php/2022/09/23/assignment-12b/
 
 Write a Python program to store names and mobile numbers of your friends in sorted order on names. Search your friend from list using Fibonacci search. Insert friend if not present in phonebook.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Assignment 13- https://techypd.netlify.app/index.php/2022/09/24/assignment-13/
 
 Write a Python program to maintain club members, sort on roll numbers in ascending order. Write function “Ternary_Search” to search whether particular student is member of club or not. Ternary search is modified binary search that divides array into 3 halves instead of two.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Assignment 14- https://techypd.netlify.app/index.php/2022/09/24/assignment-14/
@@ -53,11 +55,13 @@ Write a Python program to store second year percentage of students in array. Wri
 Assignment 16- https://techypd.netlify.app/index.php/2022/09/24/assignment-16/
 
 Write a Python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using quick sort and display top five scores.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Assignment 17- https://techypd.netlify.app/index.php/2022/09/24/assignment-17/
 
 Write a Python program to store 12th class percentage of students in array. Write function for sorting array of floating point numbers in ascending order using bucket sort and display top five scores.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Assignment 18- https://techypd.netlify.app/index.php/2022/09/24/assignment-18/
