@@ -66,3 +66,27 @@ Assignment 6:- https://techypd.netlify.app/index.php/2022/09/22/assignment-6/
 
 It is decided that weekly greetings are to be furnished to wish the students having their birthdays in that week. The consolidated sorted list with desired categorical information is to be provided to the authority. Write a Python program to store students PRNs with date and month of birth. Let List_A and List_B be the two list for two SE Computer divisions. Lists are sorted on date and month. Merge these two lists into third list “List_SE_Comp_DOB” resulting in sorted information about Date of Birth of SE Computer students.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment 7:- https://techypd.netlify.app/index.php/2022/09/22/assignment-7/
+
+Write a Python Program for magic square. A magic square is an n * n matrix of the integers 1 to n2 such that the sum of each row, column, and diagonal is the same. The figure given below is an example of magic square for case n=5. In this example, the common sum is 65.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment 8:- https://techypd.netlify.app/index.php/2022/09/23/assignment-8/
+
+Write a Python program that determines the location of a saddle point of matrix if one exists. An m x n matrix is said to have a saddle point if some entry a[i][j] is the smallest value in row i and the largest value in j.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment 9:- https://techypd.netlify.app/index.php/2022/09/23/assignment-9/
+
+Problem statement
+
+Write a Python program to compute following computation on matrix:
+
+a) Addition of two matrices B) Subtraction of two matrices
+
+c) Multiplication of two matrices d) Transpose of a matrix
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment 10:- https://techypd.netlify.app/index.php/2022/09/23/assignment-10/
+
+Write a Python program for sparse matrix realization and operations on it- Transpose, Fast Transpose, and addition of two matrices.
